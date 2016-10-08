@@ -1,0 +1,6 @@
+C:\Users\Laptop\Programing\OOP 14.04.2016 C#\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+C:\Users\Laptop\Programing\OOP 14.04.2016 C#\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\FurnitureManufacturer\bin\Debug\Furnitures.exe
+C:\Users\Laptop\Programing\OOP 14.04.2016 C#\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+C:\Users\Laptop\Programing\OOP 14.04.2016 C#\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\FurnitureManufacturer\obj\Debug\Furnitures.exe
+C:\Users\Laptop\Programing\OOP 14.04.2016 C#\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\FurnitureManufacturer\obj\Debug\Furnitures.pdb
+C:\Users\Laptop\Programing\OOP 14.04.2016 C#\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
